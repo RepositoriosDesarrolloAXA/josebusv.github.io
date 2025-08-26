@@ -93,7 +93,7 @@ const Portfolio = () => {
         <div className="max-w-7xl mx-auto px-4">
           <div className="flex justify-between h-16">
             <div className="flex items-center">
-              <span className="text-xl font-bold">Tu Nombre</span>
+              <span className="text-xl font-bold">Jose Luis Bustos</span>
             </div>
 
             {/* Desktop Navigation */}
